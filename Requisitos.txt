@@ -1,0 +1,57 @@
+Módulo profesional: Entornos de Desarrollo. 
+Curso: 1º.
+Ciclo Formativo: C.G.S. Desarrollo de Aplicaciones Web.
+IES Cañaveral (Móstoles)
+Nota: Esta actividad se realizará de manera Individual. 
+Objetivo: Crear un repositorio local de git, operar con algunos 
+comandos y subir el repositorio a Github(servicio de alojamientos de 
+repositorio git) 
+Nota: Para esta actividad se trabajará como clientes GIT desde:
+• El terminal de comandos
+• Posteriormente desde GitHub
+• Para finalizar con Eclipse.
+Subir el proyecto GIT a GitHub
+A partir del repositorio creado en la actividad anterior, con los cambios 
+que se realizarlo en esa misma actividad.
+Se pide:
+1. Crear una etiqueta “tag” sobre el contenido que tiene el 
+repositorio. 
+La clave: 23-11-2023_v1
+El mensaje: “Primera etiqueta creada sobre el proyecto
+compania_aerea_xxx.”
+A partir de ahí, se preparará el entorno para subir el repositorio a
+GitHub; se accede a GitHub y:
+• Se crea un token de seguridad: Opción menú Usuario →
+Settings → Developer settings (aparece en la parte de abajo)→
+Personal access tokens → Tokens (classic)
+o Generate new Token: Generate new Token (classic)
+Actividad 5.4: Eclipse - Git - GitHub. 2
+IES Cañaveral (Móstoles) Entornos de Desarrollo – 1º DAW
+▪ Note: “Token para Entornos de Desarrollo 1º DAW”
+▪ Expiración: 90días
+▪ Select scopes: Seleccionar todas los check-boxes
+▪ Guardar el Token para usarlo posteriormente.
+• Crear un repositorio: Se creará un repositorio público
+llamado “CompAerea-xxx”.
+https://github.com/isidoronm/CompaAerea-inm.git
+Copiar la URL con el token: https://TOKEN@REPOSITORIO
+https://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
+@github.com/isidoronm/CompAerea-inm.git
+Actividad 5.4: Eclipse - Git - GitHub. 3
+IES Cañaveral (Móstoles) Entornos de Desarrollo – 1º DAW
+CREAR UN REPOSITORIO A PARTIR DE UN PROYECTO EN 
+ECLIPSE
+• A partir del Proyecto creado en la actividad 2.1 
+(Proyecto1_ED_xxx) se pide:
+o Crear un repositorio local asociado al proyecto
+o Realizar un paso a Staging del contenido y realizar un
+commit del contenido del proyecto.
+• Crear un repositorio con el mismo nombre que el proyecto
+• Realizar un “Push Brach Master” del proyecto. Para la 
+autenticación se utilizará e
+• Realizar un cambio desde el cliente web GitHub (incluyendo un 
+comentario en el código vinculado a la clase con el método 
+main), junto con un commit.
+• Realizar en Eclipse un “Pull”. 
+• Comprobar que En el proyecto, en el método main de la 
+Clase1ED, se muestra el comentario en el código.
