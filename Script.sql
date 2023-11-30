@@ -1,5 +1,5 @@
 -- Script asociado a la Actividad 5.3
-BBDD_COMPAÑIA AERE.
+BBDD_COMPAÑIA AEREA
 -- Creación de la base de datos
 CREATE DATABASE IF NOT EXISTS compania_aerea_inm;
 
